@@ -4,9 +4,9 @@ I have performed Anomaly Detection Analysis.
 
 In this I've used Python’s Famous libraries like [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Scipy](https://www.scipy.org/), and [Sklearn](https://scikit-learn.org/) for Analysis and Detection of Anomalies.
 
-I've used [Jupyter Notebook]() for coding!
+I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 
-**Download the datasets from here [data1](), [data2](), [data3]()!**
+**Download the datasets from here [data1](https://github.com/Anuragtsl/ML-Anomaly_Detection/blob/main/tr_server_data.csv), [data2](https://github.com/Anuragtsl/ML-Anomaly_Detection/blob/main/cv_server_data.csv), [data3](https://github.com/Anuragtsl/ML-Anomaly_Detection/blob/main/gt_server_data.csv)!**
 
 # Anomaly Detection
 
