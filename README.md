@@ -2,11 +2,11 @@
 
 I have performed Anomaly Detection Analysis.
 
-In this I've used Python’s Famous libraries like [Numpy](), [Matplotlib](), [Scipy](), and [Sklearn]() for Analysis and Detection of Anomalies.
+In this I've used Python’s Famous libraries like [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Scipy](https://www.scipy.org/), and [Sklearn](https://scikit-learn.org/) for Analysis and Detection of Anomalies.
 
 I've used [Jupyter Notebook]() for coding!
 
-**Download the dataset from [here]()!**
+**Download the datasets from here [data1](), [data2](), [data3]()!**
 
 # Anomaly Detection
 
